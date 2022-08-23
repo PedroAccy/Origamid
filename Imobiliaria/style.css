@@ -1,0 +1,46 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 50px;
+  overflow: hidden;
+}
+
+.item{
+  background-color: #111;
+  color: #fff;
+  padding: 30px;
+  margin: 20px;
+  border-radius: 4px;
+
+}
+
+span{
+  color: #febe10;
+}
+
+h1 {
+  background-color: 0;
+  font-size: 80px;
+  color: #111;
+  text-align: center;
+  margin: 0;
+  margin-bottom: 60px;
+}
+
+h2 {
+  font-size: 40px;
+  margin: 0px;
+}
+
+p{
+  font-size: 30px;
+}
+
+button, a{
+  text-decoration: none;
+  background-color: #febe10;
+  color: #111;
+  border-radius: 10px;
+  font-size: 30px;
+  padding: 10px;
+
+}
